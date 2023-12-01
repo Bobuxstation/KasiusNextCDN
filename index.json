@@ -14,8 +14,8 @@
             "name": "Forward",
             "by": "zeankundev",
             "desc": "Forward is a video editor, a heavily modified version of sheeptester's OpenShit",
-            "URL": "https://zeankundev.github.io/KaOS-Store/forward/index.html",
-            "icon": "https://zeankundev.github.io/KaOS-Store/forward/icon.png",
+            "URL": "https://bobuxstation.github.io/KaOS-Store/forward/index.html",
+            "icon": "https://bobuxstation.github.io/KaOS-Store/forward/icon.png",
             "height": 450,
             "width": 800
 
@@ -24,8 +24,8 @@
             "name": "Meme Maker",
             "by": "zeankundev",
             "desc": "A KaOS Classic.",
-            "URL": "https://zeankundev.github.io/KaOS-Store/apps/MEMEMAKER.html",
-            "icon": "https://zeankundev.github.io/KaOS/Icons/mememaker.png",
+            "URL": "https://bobuxstation.github.io/KaOS-Store/apps/MEMEMAKER.html",
+            "icon": "https://bobuxstation.github.io/AsatOS/Icons/mememaker.png",
             "height": 450,
             "width": 600
 
@@ -36,16 +36,6 @@
             "desc": "Celebrating 10 Years - A port of classic Minecraft for the web",
             "URL": "https://classic.minecraft.net/",
             "icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/0678c572b0d5597d2d4a6b5bd135754c/32/1024x1024.png",
-            "height": 450,
-            "width": 800
-
-        },
-        {
-            "name": "Type",
-            "by": "Kasius",
-            "desc": "Create documents with Kasius Type.",
-            "URL": "https://zeankundev.github.io/type/",
-            "icon": "https://zeankundev.github.io/type/logo.png",
             "height": 450,
             "width": 800
 
