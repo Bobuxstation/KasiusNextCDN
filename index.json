@@ -39,6 +39,16 @@
             "height": 450,
             "width": 800
 
+        },
+        {
+            "name": "Type",
+            "by": "Kasius",
+            "desc": "Write anything with Kasius Type. For free!",
+            "URL": "https://bobuxstation.github.io/KaOS-Store/type/",
+            "icon": "https://bobuxstation.github.io/KaOS-Store/type/logo.png",
+            "height": 450,
+            "width": 800
+
         }
 	]
 }
